@@ -5,7 +5,7 @@ CMS-style blog site similar to a Wordpress site, where developers can publish th
 Clone the repositry from GitHub and open using Visual Studio Code.
 
 # Usage 
-[Deployed Site](https://.com/)
+[Deployed Site](https://abbycav7.github.io/Tech-Blog/)
 
 ![alt text](./public/images/ScreenShot.jpg)
 
